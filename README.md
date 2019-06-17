@@ -1,4 +1,4 @@
-# SQL Saturday #879 
+# SQL Saturday #879 - Cuiabá 2019
 [PT-BR] Demo da palestra realizada no evento [SQL Saturday #879 - Cuiabá 2019](https://www.sqlsaturday.com/879/EventHome.aspx)
 
 ## Sumário
