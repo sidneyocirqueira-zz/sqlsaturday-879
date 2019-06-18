@@ -34,6 +34,9 @@ Instruções para execução do projeto:
 
 ## Build Status 
  [![Build Status](https://dnceng.visualstudio.com/public/_apis/build/status/dotnet.spark?branchName=master)](https://dev.azure.com/dnceng/public/_build?definitionId=459&branchName=master)
+ 
+  | Windows |
+| | [![Build Status](https://dnceng.visualstudio.com/public/_apis/build/status/dotnet.spark?branchName=master)](https://dev.azure.com/dnceng/public/_build?definitionId=459&branchName=master)|
 
 ## Referências 
 * Microsoft Learn: https://docs.microsoft.com/en-us/learn/
