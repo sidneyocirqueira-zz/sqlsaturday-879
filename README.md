@@ -30,7 +30,7 @@ Instruções para execução do projeto:
 
 ## CI/CD
 * Configurar [Azure Pipelines](https://docs.microsoft.com/en-us/azure/devops/pipelines/get-started/index?view=azure-devops) [Build]() e Release via Azure DevOps;
-![pipeline]()
+![pipeline](https://github.com/sidneyocirqueira/sqlsaturday-879/blob/master/img/pipelines-image-yaml.png)
 
 ## Build Status 
  [![Build Status](https://dnceng.visualstudio.com/public/_apis/build/status/dotnet.spark?branchName=master)](https://dev.azure.com/dnceng/public/_build?definitionId=459&branchName=master)
