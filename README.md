@@ -7,6 +7,7 @@
 * [Pré-Requisitos](#prerequisitos)
 * [Instruções](#instrucoes)
 * [CI/CD](#ci/cd)
+* [Build Status](#buildstatus)
 * [Referências](#referencias)
 * [Contribuição](#contribuicao)
 
@@ -32,7 +33,7 @@ Instruções para execução do projeto:
 ![pipeline]()
 
 ## Build Status 
- [![Build Status](https://dnceng.visualstudio.com/public/_apis/build/status/dotnet.spark?branchName=master)](https://dev.azure.com/dnceng/public/_build?definitionId=459&branchName=master)|
+ [![Build Status](https://dnceng.visualstudio.com/public/_apis/build/status/dotnet.spark?branchName=master)](https://dev.azure.com/dnceng/public/_build?definitionId=459&branchName=master)
 
 ## Referências 
 * Microsoft Learn: https://docs.microsoft.com/en-us/learn/
