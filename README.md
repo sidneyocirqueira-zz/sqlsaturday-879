@@ -35,7 +35,8 @@ Instruções para execução do projeto:
 ![pipeline](https://github.com/sidneyocirqueira/sqlsaturday-879/blob/master/img/pipelines-image-yaml.png)
 
 ## Build Status 
- [![Build Status](https://dnceng.visualstudio.com/public/_apis/build/status/dotnet.spark?branchName=master)](https://dev.azure.com/dnceng/public/_build?definitionId=459&branchName=master)
+
+[![Build Status](https://dev.azure.com/wizsolucoes/ServicosUnificados/_apis/build/status/devopsDatabase?branchName=master)](https://dev.azure.com/wizsolucoes/ServicosUnificados/_build/latest?definitionId=378&branchName=master)
 
 ## Referências 
 * Microsoft Learn: https://docs.microsoft.com/en-us/learn/
