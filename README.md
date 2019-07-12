@@ -26,7 +26,7 @@ Nessa sessão apresentamos fim a fim como adicionar projetos de Azure SQL Databa
 ## Instruções
 Instruções para execução do projeto:
 * Provisionar Ambiente de Azure SQL Database via [ARM Template](https://github.com/sidneyocirqueira/sqlsaturday-879/tree/master/arm) com Power Shell;
-* Executar projeto via Visual Studio ou Visual Studio Code: [Solution]() |  [SQL Project]();
+* Executar projeto via Visual Studio ou Visual Studio Code: [Solution](https://github.com/sidneyocirqueira/sqlsaturday-879/blob/master/devopsDatabase.sln) |  [SQL Project](https://github.com/sidneyocirqueira/sqlsaturday-879/tree/master/src/devopsDatabase);
 * Criar [repositório](https://docs.microsoft.com/en-us/azure/devops/repos/index?view=azure-devops) no Azure Repos;
 * Modelar SQL Database offline no Visual Studio e publicar para repositório;  
 
@@ -41,7 +41,7 @@ Instruções para execução do projeto:
 ## Referências 
 * Microsoft Learn: https://docs.microsoft.com/en-us/learn/
 * Azure SQL Database: https://docs.microsoft.com/en-us/azure/sql-database/
-* Learn Azure DevOps: https://docs.microsoft.com/en-us/learn/paths/evolve-your-devops-practices/
+* Microsoft Learn Azure DevOps: https://docs.microsoft.com/en-us/learn/paths/evolve-your-devops-practices/
 * DevOps: https://docs.microsoft.com/en-us/azure/devops/learn/what-is-devops
 * SSDT: https://devblogs.microsoft.com/ssdt/
 * SSDT + Visual Studio: https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/SQL-Server-Data-Tools-for-Visual-Studio
