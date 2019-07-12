@@ -1,7 +1,7 @@
 # SQL Saturday #879 - Cuiabá 2019
 [PT-BR] Demo da palestra realizada no evento [SQL Saturday #879 - Cuiabá 2019](https://www.sqlsaturday.com/879/EventHome.aspx)
 
-Nessa sessão apresentaros fim a fim como adicionar projetos de Azure SQL Databases dentro da cultura DevOps, nos ciclos de integração e entrega contínua (CI/CD) utilizando as ferramentas Azure DevOps e Visual Studio + SSDT.
+Nessa sessão apresentamos fim a fim como adicionar projetos de Azure SQL Databases dentro da cultura DevOps, nos ciclos de integração e entrega contínua (CI/CD) utilizando as ferramentas Azure DevOps e Visual Studio + SSDT.
 
 ## Sumário
 * [Palestra](#palestra)
