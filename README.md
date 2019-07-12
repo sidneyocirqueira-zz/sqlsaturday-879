@@ -23,7 +23,7 @@
 
 ## Instruções
 Instruções para execução do projeto:
-* Provisionar Ambiente de Azure SQL Database via [ARM Template]() com Power Shell;
+* Provisionar Ambiente de Azure SQL Database via [ARM Template](https://github.com/sidneyocirqueira/sqlsaturday-879/tree/master/arm) com Power Shell;
 * Executar projeto via Visual Studio ou Visual Studio Code: [Solution]() |  [SQL Project]();
 * Criar [repositório](https://docs.microsoft.com/en-us/azure/devops/repos/index?view=azure-devops) no Azure Repos;
 * Modelar SQL Database offline no Visual Studio e publicar para repositório;  
