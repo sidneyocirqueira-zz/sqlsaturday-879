@@ -38,6 +38,7 @@ Instruções para execução do projeto:
 ## Referências 
 * Microsoft Learn: https://docs.microsoft.com/en-us/learn/
 * Azure SQL Database: https://docs.microsoft.com/en-us/azure/sql-database/
+* Learn Azure DevOps: https://docs.microsoft.com/en-us/learn/paths/evolve-your-devops-practices/
 * DevOps: https://docs.microsoft.com/en-us/azure/devops/learn/what-is-devops
 * SSDT: https://devblogs.microsoft.com/ssdt/
 * SSDT + Visual Studio: https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/SQL-Server-Data-Tools-for-Visual-Studio
