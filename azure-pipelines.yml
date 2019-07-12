@@ -1,0 +1,35 @@
+# Sql Server Data Tools
+# Build a Database project that uses SSDT.
+# Add steps that analyze code, save build artifacts, deploy, and more:
+# https://docs.microsoft.com/en-us/azure/devops/pipelines/tasks/build/msbuild
+# YAML reference:
+# https://docs.microsoft.com/en-us/azure/devops/pipelines/yaml-schema
+
+trigger:
+  branches:
+    include:
+    - master
+    - releases/*
+  paths:
+    exclude:
+    - README.md
+
+pool:
+  vmImage: 'vs2017-win2016'
+
+steps:
+- task: MSBuild@1
+  inputs:
+    solution: '**/*.sqlproj'
+
+- task: CopyFiles@2
+  inputs:
+    contents: '**/*.dacpac' 
+    targetFolder: $(build.artifactstagingdirectory)
+
+- task: PublishBuildArtifacts@1
+  inputs:
+    pathtoPublish: '$(Build.ArtifactStagingDirectory)' 
+    artifactName: 'drop' 
+    publishLocation: 'container'
+    targetPath: 'drop'
