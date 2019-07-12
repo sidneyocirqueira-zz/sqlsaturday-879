@@ -12,7 +12,7 @@
 * [Contribuição](#contribuicao)
 
 ## Palestra
-* DevOps for Azure SQL Databases
+* [DevOps for Azure SQL Databases](https://github.com/sidneyocirqueira/sqlsaturday-879/blob/master/pdf/SQLSaturday_Cuiaba_2019.pdf)
 
 ## Integrantes
 1. [Renan Queiroz](https://www.linkedin.com/in/renanlq/) 
